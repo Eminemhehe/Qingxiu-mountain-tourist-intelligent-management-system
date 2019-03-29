@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/build.xml</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/utils/HibernateUtils.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/Dao/IBaseDao.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/database.properties</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/entity/Visitor.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/Dao/BaseInterface.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/entity/Visitor.hbm.xml</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/Dao/VisitorDao.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/visitorinformationmanagementsystem/VisitorInformationManagementSystem.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/java/awt/ImageIcon.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/NewJDialog.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/utils/JDBCUtils.java</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/manifest.mf</file>
+            <file>file:/C:/Users/wz/Desktop/Visit/src/GUI/SystemGUI.java</file>
+        </group>
+    </open-files>
+</project-private>
